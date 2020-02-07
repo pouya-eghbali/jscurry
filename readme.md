@@ -1,6 +1,6 @@
 # JS Curry
 
-JavaScript auto-curry. Works with native code functions, regulars ones,
+JavaScript auto-curry. Works with native functions, regular ones,
 ...rest and parameters with default values. It does not depend on function.length.
 
 ## Install
